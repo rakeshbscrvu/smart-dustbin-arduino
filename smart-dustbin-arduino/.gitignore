@@ -1,0 +1,12 @@
+# Arduino build output
+build/
+*.hex
+*.elf
+
+# Secrets (not needed for this project, but keep out of Git)
+secrets.h
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
